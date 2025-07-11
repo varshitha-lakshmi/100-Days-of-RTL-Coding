@@ -1,4 +1,4 @@
-```verilog
+
 module tb_fifo_4x8;
   reg clk, rst_n, wr_en, rd_en;
   reg [7:0] data_in;
